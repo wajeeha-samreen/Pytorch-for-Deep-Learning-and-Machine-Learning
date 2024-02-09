@@ -43,5 +43,5 @@ This repository contains a variety of examples and tutorials covering PyTorch fu
 Contributions to this repository are welcome! If you have suggestions for improvements, additional examples, or corrections, please feel free to open an issue or submit a pull request.
 As you continue your journey, remember to keep practicing and experimenting with PyTorch to solidify your understanding and explore more advanced topics in deep learning. Whether you're building neural networks for image classification, natural language processing, or reinforcement learning, PyTorch provides the tools and flexibility you need to bring your ideas to life.
 
-## We hope this repository has been a valuable resource in your learning journey. If you have any feedback, suggestions, or questions, feel free to reach out or contribute to this repository. Keep learning, exploring, and innovating with PyTorch!
+### We hope this repository has been a valuable resource in your learning journey. If you have any feedback, suggestions, or questions, feel free to reach out or contribute to this repository. Keep learning, exploring, and innovating with PyTorch!
 ### Happy Learning!!
